@@ -3,20 +3,26 @@ project:
   output-dir: docs
 
 website:
-  title: "kaleighedavis.github.io"
+  title: "Kaleigh Davis"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: media/cv.pdf
+        text: CV
+      - icon: github #icon as navbar button
+        href: https://github.com/kaleighedavis
 
 format:
   html:
     theme:
-      - cosmo
+      - sandstone
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

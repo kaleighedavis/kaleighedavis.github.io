@@ -1,11 +1,16 @@
 ---
-title: "kaleighedavis.github.io"
+title: "Kaleigh Davis"
+about:
+  template: jolla
+  image: media/ga-bins.jpg
+  image-width: 17em
+  links:
+  - icon: github
+    text: Github
+    href: https://github.com/kaleighedavis
+  - icon: envelope
+    text: Email
+    href: mailto:kaleigh.davis@uoguelph.ca
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am an ecologist interested in understanding general patterns in how biological systems respond to environmental change, and combining this with local knowledge to address urgent, local socio-ecological problems. My work focuses on clarifying direct and indirect effects of climate change on resource availability, and consequences for species interactions and ecosystem functioning. I combine theory and experiments to explore these topics in multiple biological systems, but am primarily interested in aquatic and marine microbial systems.
