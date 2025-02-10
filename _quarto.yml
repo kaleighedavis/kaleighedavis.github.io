@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Kaleigh Davis"
+  title: ""
   navbar:
     right:
       - href: index.qmd
@@ -14,13 +14,17 @@ website:
         text: CV
       - icon: github #icon as navbar button
         href: https://github.com/kaleighedavis
+  page-footer:
+    background: light # or `dark`
+    left: Copyright 2025, Kaleigh Davis
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/kaleighedavis){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
-    theme:
-      - sandstone
-      - brand
-    css: styles.css
+    theme: styles.scss 
+    #  - sandstone
+    #  - brand
+    #css: styles.css
     toc: true
     page-layout: full
 

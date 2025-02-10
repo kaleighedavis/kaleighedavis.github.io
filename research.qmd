@@ -1,3 +1,21 @@
 ---
-title: "Research Interests"
+title: "Research Projects"
 ---
+
+\<Insert image from Eeyou Istchee here\>
+
+Understanding causes of the decline and limited recovery of shikaapaashkw (english: eelgrass, latin: Zostera marina), in Eeyou Istchee, James Bay, Québec.
+
+\<A short paragraph describing that project here \>
+
+\<Insert a screencap of diazotroph collage\>
+
+The effects of warming on nitrogen fixation rates across ecological systems and scales
+
+\< A short paragraph describing that project here \>
+
+\<Insert a photo of experimental phytoplankton populations here\>
+
+Interactive effects of temperature and nitrogen availability on community primary productivity
+
+<A short paragaph on that project here >
