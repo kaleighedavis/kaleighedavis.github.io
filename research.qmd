@@ -8,13 +8,15 @@ Understanding causes of the decline and limited recovery of shikaapaashkw (engli
 
 \<A short paragraph describing that project here \>
 
+
 \<Insert a screencap of diazotroph collage\>
 
 The effects of warming on nitrogen fixation rates across ecological systems and scales
 
 \< A short paragraph describing that project here \>
 
-\<Insert a photo of experimental phytoplankton populations here\>
+
+<img src="media/pnf-temp.png" alt="" width="700" />
 
 Interactive effects of temperature and nitrogen availability on community primary productivity
 
