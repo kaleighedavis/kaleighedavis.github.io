@@ -2,7 +2,7 @@
 title: "Kaleigh Davis"
 about:
   template: jolla
-  image: media/ga-bins.jpg
+  image: media/ga-bins-crop.png
   image-width: 17em
   links:
   - icon: github
