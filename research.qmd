@@ -2,22 +2,20 @@
 title: "Research Projects"
 ---
 
-<img src="media/EI-canoe-landscape.jpg" alt="" height="400" width="600" />
+<img src="media/EI-canoe-landscape.jpg" height="400" width="600"/>
 
 Understanding causes of the decline and limited recovery of shikaapaashkw (english: eelgrass, latin: Zostera marina), in Eeyou Istchee, James Bay, Québec.
 
-\<A short paragraph describing that project here \>
+Eelgrass meadows provide valuable ecosystem services to coastal communities. These shallow-water ecosystems in Eeyou Istchee (eastern James Bay, Quebec, Canada) provide waterfowl foraging habitat, fish nurseries, and natural storm buffers, supporting Cree ways of life. In 2019-2021, Eeyou Istchee eelgrass extent and shoot size remained well below historical baseline levels following a major decline in the mid 1990’s. We experimentally tested the potentially limiting roles of current-day nutrient and light conditions for eelgrass productivity during the growing season. We tested the hypothesis that eelgrass growth is limited by water column nutrients, using *in situ* nutrient additions in two eelgrass meadows. Eelgrass growth rate did not respond to nutrient addition at either site, but epiphytic algae biomass increased with nutrient addition at one site. We then assessed the ability of these eelgrass to grow in low light conditions by producing ex situ production-irradiance curves. Eelgrass at both sites showed no evidence of low light acclimatization with saturating irradiances of 224 and 260 μmol photons m-2 s-1 and compensation points of 31 and 61 μmol photons m-2 s-1. We observed eelgrass growth rates of about 3.8% areal growth per day at our two sites, very high rates compared to other meadows, globally. Together, our results suggest that eelgrass in Eeyou Istchee is growing despite low water column light and nutrient conditions. However, these meadows may have a shorter, faster growing season compared to meadows in other regions, leaving them vulnerable to stressful conditions and extreme climate events during this period.
 
-
-<img src="media/general_bnf.png" alt="" height="300" width="700" />
+<img src="media/general_bnf.png" height="300" width="700"/>
 
 The effects of warming on nitrogen fixation rates across ecological systems and scales
 
-\< A short paragraph describing that project here \>
+Biological nitrogen fixation (BNF) provides half of global new nitrogen annually and plays an important role in biodiversity patterns and global biological carbon uptake processes. BNF rates accelerate with warming, with known implications for ecological functioning, yet the strength of this temperature sensitivity and its context dependence are not well understood. We synthesized 70 controlled experimental tests of the acute temperature dependence of nitrogen fixation rates and demonstrate that BNF rates accelerate with temperature in a remarkably consistent manner across biological systems. Additionally, BNF temperature dependence is consistent across levels of biological organization from enzyme to community, mirroring scaling of metabolic temperature dependence across levels of organization for respiration, photosynthesis and methane production. This work provides the first evidence of general, scalable effects of temperature on nitrogen fixation rates, which can be used to better predict shifts in coupled carbon-nitrogen systems with global change.
 
-
-<img src="media/pnf-temp.png" alt="" height="300" width="700" />
+<img src="media/pnf-temp.png" height="300" width="700"/>
 
 Interactive effects of temperature and nitrogen availability on community primary productivity
 
-<A short paragaph on that project here >
+Photosynthesis drives the ocean biological carbon pump, moving carbon from the atmosphere through biota and into the deep sea. Modeling photosynthetic carbon uptake with warming is a major focus of climate change science, but there is a gap in understanding how resource supply will influence these projections. If resource supply is temperature-dependent and linked to population dynamics, then the relative temperature dependencies of photosynthesis and resource supply and strength of species interactions should determine the photosynthetic capacity of a community with warming. We used a lab warming experiment to test two hypotheses: 1) Nitrogen fixation, an important source of new nitrogen to nitrogen limited ecosystems, responds more strongly to temperature than does photosynthesis, and 2) species interactions involving nitrogen fixing organisms mediate the temperature-photosynthesis relationship through effects on resource supply. We used two marine phytoplankton species, one nitrogen-fixer and one non-nitrogen-fixer, that have partially overlapping thermal niches and a facilitative relationship when nitrogen is depleted. Over a temperature gradient spanning 10-40°C, we did not find evidence for differences in temperature dependence of photosynthesis and biological nitrogen fixation. Furthermore, we found that the temperature dependence of photosynthesis did not vary with nitrogen treatment, regardless of nitrogen supplementation by nitrogen fixation in the system. Nitrogen fixation did facilitate the persistence and productivity of the non-nitrogen-fixing species in a nitrogen-limited environment. However, the N provided via fixation was not sufficient to relieve the system of nitrogen limitation. Together, results suggest that while nitrogen fixation species may be key to the persistence of diverse phytoplankton assemblages species during periods of low nutrient availability, they may not support the maintenance of ecological functioning in those assemblages.
